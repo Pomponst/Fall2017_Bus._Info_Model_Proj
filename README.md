@@ -1,6 +1,6 @@
 # Fall2017_Bus._Info_Model
-  Undergraduate Level Business Information Modeling Course SQL Assignment 
-
+Final project code for my undergraduate level business information modeling course
+ 
 **Project Description**
 1.	Students who attend a university have the option to live on campus in several different buildings. A student is comprised of their student id number, first and last name, sex, and age. In addition, if they have any living conditions that would have an effect on their living arrangement, smoking or early riser/night owl, these can be added to their profile.
 2.	A collection of students can be placed into a class, which is dependent on when they begin their studies. Each class can have many or no students within it.
